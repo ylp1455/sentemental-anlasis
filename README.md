@@ -13,7 +13,7 @@ This is a simple web application that allows you to perform sentiment analysis o
 1. Clone this repository to your local machine:
 
     ```shell
-    git clone https://github.com/your-username/sentiment-analysis-web-app.git
+    git clone https://github.com/ylp1455/sentemental-anlasis.git
     ```
 
 2. Open the `index.html` file in your web browser to access the web application.
