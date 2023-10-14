@@ -41,7 +41,7 @@ This project is open-source and available under the [MIT License](LICENSE). You 
 
 ## Contributors
 
-- [Your Name](https://github.com/ylp1455)
+- [Yasiru Perera](https://github.com/ylp1455)
 
 Feel free to contribute to this project by creating issues, making improvements, or adding new features.
 
